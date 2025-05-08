@@ -86,19 +86,19 @@ npx playwright show-report
 
 ## Sample Test Case Coverage
 
-Valid login
-Invalid login (wrong password)
-Locked-out user
-Add item to cart
-Remove item from cart
-Verify cart badge count
-Reset app state
-Sorting products by price
-Checkout with incomplete form
-Successful checkout with valid info
+```Valid login```
+```Invalid login (wrong password)```
+```Locked-out user```
+```Add item to cart```
+```Remove item from cart```
+```Verify cart badge count```
+```Reset app state```
+```Sorting products by price```
+```Checkout with incomplete form```
+```Successful checkout with valid info```
 
 ## Best Practices Followed 
-Reusable page object methods
-Config-driven environment setup
-Tests are independent & idempotent
-Error handling and assertions added
+```Reusable page object methods```
+```Config-driven environment setup```
+```Tests are independent & idempotent```
+```Error handling and assertions added```
